@@ -1,4 +1,4 @@
-# Project-Codes-01
+# Codes
 
 This folder contains a folder named "project". It is a project folder created by Visual Studio. The solution file *"project.sln"* in it can be open and run in VS directly. 
 
@@ -14,7 +14,7 @@ There are some important code files and input files:
 
 
 
-# Project-Data-01
+# Data
 
 This folder contains the some data files.
 
@@ -28,7 +28,7 @@ This folder contains the some data files.
 
 
 
-# Project-Figures-01
+# Figures
 
 This folder contains some figures in our report. 
 
@@ -45,7 +45,7 @@ This folder contains some figures in our report.
 
 
 
-# Project-Outputs-01
+# Outputs
 
 This folder contains some complete output files of our results.  
 
@@ -58,7 +58,7 @@ This folder contains some complete output files of our results.
 
 
 
-# Project-Report-01
+# Report
 
 This folder contains the latex source file and .pdf file of our report, as well as some other source files.
 
